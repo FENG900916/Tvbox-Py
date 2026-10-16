@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="logo.jpg" width="160" alt="PY聚合"/>
+<img src="logo.jpg" width="180" alt="PY聚合"/>
 
-# ✨ PY 聚合订阅 ✨
+# 🐬 PY 聚合订阅 🐬
 
 **TVBox Python 源聚合仓库 · 精选 xxx 个优质站点**
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-*Made with ✨ by 快乐二狗*
+*Made in CN 🐬 by 快乐二狗*
 
 </div>
 
