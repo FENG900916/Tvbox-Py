@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="logo.jpg" width="180" alt="PY聚合"/>
 
 # 🐬 PY 聚合订阅 🐬
 
 **TVBox Python 源聚合仓库 · 精选 xxx 个优质站点**
 
 [![TVBox](https://img.shields.io/badge/TVBox-py%E6%BA%90-blueviolet)](https://cdn.jsdelivr.net/gh/zxsla/pyjuhe@main/tvbox.json)
-[![Sources](https://img.shields.io/badge/%E6%BA%90%E6%95%B0-131-brightgreen)](https://cdn.jsdelivr.net/gh/zxsla/pyjuhe@main/tvbox.json)
+[![Sources](https://img.shields.io/badge/%E6%BA%90%E6%95%B0-131-brightgreen)]()
 [![Updated](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0-2026--10--16-orange)]()
 
 </div>
@@ -50,7 +49,6 @@
 
 ## ⭐ Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zxsla/pyjuhe&type=Date)](https://star-history.com/#zxsla/pyjuhe&Date)
 
 ## ⚠️ 免责声明
 
